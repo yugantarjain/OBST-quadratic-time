@@ -1,14 +1,11 @@
 # OBST (Quadratic-Time implementation)
 
-### Special implementation of Dynamic Programming (DP) based Optimal Binary Search Tree.  
-### Achieved by using Knuth's Theorem.  
+### Special implementation of Dynamic Programming (DP) based Optimal Binary Search Tree. Uses Knuth's Theorem, achieves Quadratic Time complexity.
   
 
-Naive Implementation | Normal DP implementation | DP implementation (Knuth)
+Normal DP implementation | Knuth's Theorem based DP implementation (Knuth) | Naive Implementation
 -------------------- | ------------------------ | -------------------------
-Theta(n^4) | Theta(n^3) | Theta(n^2)
-
-  
+Theta(n^3) | **Theta(n^2)** | Theta(n^4)
   
 Uses Knuth's Theorem to achieve quadratic time complexity.  
   
