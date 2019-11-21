@@ -1,6 +1,6 @@
-# OBST-quadratic-time
+# OBST-quadratic-time-implementation
 
-## Special Implementation of Optimal Binary Search Tree using Dynamic Programming in quadratic time.
+### Special Implementation of Optimal Binary Search Tree using Dynamic Programming in quadratic time.
 
 ### Normal Time Compelxity:   Theta(n^3)
 ### Time Complexity achieved: Theta(n^2)
