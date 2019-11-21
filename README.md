@@ -1,4 +1,4 @@
-# OBST Quadratic-Time implementation
+# OBST (Quadratic-Time implementation)
 
 ### Special Implementation of Optimal Binary Search Tree using Dynamic Programming in quadratic time.
 
