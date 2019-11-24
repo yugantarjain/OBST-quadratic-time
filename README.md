@@ -2,7 +2,7 @@
 
 #### Special implementation of Dynamic Programming based Optimal Binary Search Tree algorithm. Uses Knuth's Theorem to achieve Quadratic Time complexity.
 
-### Time complexity chart
+#### Time complexity chart:
 **Current Implementation(Highy Efficient)** | Usual DP based implementation | Naive Implementation
 -------------------- | ------------------------ | -------------------------
 **Theta(n^2)** | Theta(n^3) | Theta(n^4)
