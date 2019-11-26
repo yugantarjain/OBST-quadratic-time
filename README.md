@@ -1,4 +1,4 @@
-# Optimal Binary Search Tree (Quadratic-Time implementation)
+## Optimal Binary Search Tree (Quadratic-Time implementation)
 
 #### Special implementation of Dynamic Programming based Optimal Binary Search Tree algorithm. Uses Knuth's Theorem to achieve Quadratic Time complexity.
 
