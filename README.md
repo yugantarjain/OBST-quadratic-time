@@ -1,9 +1,9 @@
-## Optimal Binary Search Tree (Quadratic-Time implementation)
+# Optimal BST (Quadratic-Time implementation)
 
 #### Special implementation of Dynamic Programming based Optimal Binary Search Tree algorithm. Uses Knuth's Theorem to achieve Quadratic Time complexity.
 
 #### Time complexity chart:
-**Current Implementation(Highy Efficient)** | Usual DP based implementation | Naive Implementation
+**This Implementation(Highy Efficient)** | Usual DP based implementation | Naive Implementation
 -------------------- | ------------------------ | -------------------------
 **Theta(n^2)** | Theta(n^3) | Theta(n^4)
   
