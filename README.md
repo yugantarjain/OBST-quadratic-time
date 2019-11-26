@@ -10,7 +10,7 @@
 #### Knuth's Theorem:  
 There are always roots of optimal subtrees such that root[i,j-1] <= root[i,j] <= root[i+1,j] for all 1<=i<j<=n.
   
-## Sample Input/Output
+### Sample Input/Output
 
 #### Input
 Keys Probability = 0.15, 0.10, 0.05, 0.10, 0.20  
